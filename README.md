@@ -1,0 +1,3 @@
+-use mongod para levantar la BD
+-use npm start para levantar el sv
+-modifque el puerto y nombre de BD y Colección
